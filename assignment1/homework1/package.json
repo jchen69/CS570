@@ -1,0 +1,22 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe",
+  "main": "app.js",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.5",
+    "string-align": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "f"
+  },
+  "author": "Jiadong_Chen",
+  "license": "MIT"
+}

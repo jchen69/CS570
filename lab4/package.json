@@ -1,0 +1,16 @@
+{
+  "name": "circular_queue_lab",
+  "version": "1.0.0",
+  "description": "using linked list to implement circular queue",
+  "main": "app.js",
+  "dependencies": {
+    "prompt-sync": "^4.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "group6",
+  "license": "MIT"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "a4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Trie.js",
+  "scripts": {
+    "start": "tsc Trie.ts \nnode Trie.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiadong Chen, Jiayue Wu, Zheng Li",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^9.6.5"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.1.6"
+  }
+}

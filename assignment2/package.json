@@ -1,0 +1,15 @@
+{
+  "name": "rpn-calculator",
+  "version": "1.0.0",
+  "description": "It is a Reverse Polish Notation Calculator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "group6",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  }
+}
